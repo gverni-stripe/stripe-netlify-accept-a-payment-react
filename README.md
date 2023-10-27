@@ -3,7 +3,7 @@
 
 # Stripe Accept a payment boilerplate for Netlify 
 
-Demo available [here](https://main--stripe-netlify-accept-a-payment-react.netlify.app/)
+Demo available [here](https://stripe-netlify-accept-a-payment-react.netlify.app/)
 
 This is a simple boilerplate for the [Stripe Accept A Payment](https://github.com/stripe-samples/accept-a-payment) Sample. 
 
